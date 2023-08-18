@@ -5,8 +5,8 @@
 - **Nombre:** Ana Paula Galíndez Mora
 - **Edad:** 18 años
 - **Ubicación:** Ciudad, País
-- **Correo electrónico:** ana.paula@example.com
-- **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+- **Correo electrónico:**anitagalindez@gmail.com
+
 
 ## Educación
 
@@ -55,4 +55,4 @@
 
 ---
 
-¡Gracias por visitar mi CV! Puedes contactarme en [ana.paula@example.com](mailto:ana.paula@example.com) o a través de mi perfil de LinkedIn.
+¡Gracias por visitar mi CV! 
