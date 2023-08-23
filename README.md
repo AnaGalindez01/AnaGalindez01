@@ -18,8 +18,6 @@
 - **Carrera:** Diseño Industrial
 - **Fechas:** A partir de (Fecha de inicio)
 
-## Experiencia
-
 ### Proyecto de Programación
 - **Rol:** Desarrolladora de Software Junior
 - **Fechas:** Enero 2023 - Actualidad
@@ -43,7 +41,6 @@
 - Inglés (intermedio)
 
 ## Intereses
-## Referencias
 
 - Diseño industrial
 - Tecnología
@@ -51,6 +48,9 @@
 - Aprendizaje constante
 - Adquisición de experiencia laboral
 
+## Referencias
+- **Nico Olmos(Programador):00-0000-00-0000**
+- **Fiorella Rosotto(Teacher English): 00-0000-00-0000**
 ---
 
 ¡Gracias por visitar mi CV! 
