@@ -18,7 +18,7 @@
 - **Carrera:** Diseño Industrial
 - **Fechas:** A partir de (Fecha de inicio)
 
-### Experiencia
+## Experiencia
 
 ### Proyecto de Programación
 - **Rol:** Desarrolladora de Software Junior
