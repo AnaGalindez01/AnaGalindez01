@@ -10,8 +10,7 @@
 
 
 ## Educación
-
-### Colegio Proa Técnica
+- **Colegio Proa Técnica**
 - **Especialidad:** Programación
 - **Año:** Séptimo año de secundaria
 
