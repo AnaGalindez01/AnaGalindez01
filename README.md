@@ -4,8 +4,9 @@
 
 - **Nombre:** Ana Paula Galíndez Mora
 - **Edad:** 18 años
-- **Ubicación:** Ciudad, País
-- **Correo electrónico:**anitagalindez@gmail.com
+- **Ubicación:** San Francisco, Cordoba, Argentina
+-  **Correo electrónico:** anitagalindez@gmail.com
+
 
 
 ## Educación
@@ -27,7 +28,7 @@
 
 ## Habilidades
 
-- Programación (lenguajes: mencionar si es relevante)
+- Programación 
 - Diseño conceptual
 - Creatividad
 - Comunicación efectiva
@@ -36,9 +37,6 @@
 
 ## Proyectos Personales
 
-### Diseño de Interiores
-- **Descripción:** Creación de conceptos de diseño de interiores para espacios creativos y funcionales.
-- **Fechas:** 2022 - Actualidad
 
 ## Idiomas
 
@@ -46,6 +44,7 @@
 - Inglés (intermedio)
 
 ## Intereses
+## Referencias
 
 - Diseño industrial
 - Tecnología
