@@ -20,7 +20,7 @@
 
 ### Proyecto de Programación
 - **Rol:** Desarrolladora de Software Junior
-- **Fechas:** Enero 2023 - Actualidad
+- **Fechas:** Actualidad
 - **Descripción:** Colaboración en proyectos de desarrollo de software como parte de la especialidad de programación en mi colegio.
 
 ## Habilidades
